@@ -1,1 +1,2 @@
-# blusensor-api-azure
+# bluSensor® Microsoft Azure
+
