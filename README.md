@@ -19,6 +19,8 @@ https://azure.microsoft.com/en-us/
 
 ## Enter Admin Mode 
 
+The default password is "123456", but you can change that anytime.
+
 <img src="blusensor_aiq_admin.png" width="800">
 
 ## Configure Internet of Things
