@@ -10,6 +10,9 @@ The sensor will automatically use topics that will be compatible with Azure IoT 
 
 Once your configuration is finished, you need to restart the device. You can check our iOS/Android app for connection states. Detailed informations can be found on the sensor's information page.
 
+## Configure Wi-Fi on your sensor
+First of all, you need to enable Wi-Fi on your sensor. This can be done on the first page of the admin dashboard.
+
 ## Create an IoTHub on Azure
 
 https://azure.microsoft.com/en-us/
